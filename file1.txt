@@ -1,1 +1,2 @@
 This is me writing stuff & learning git.
+DON'T EVER FORGET TO TYPE IN A MSG when committing changes.
